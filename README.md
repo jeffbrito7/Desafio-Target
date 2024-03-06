@@ -10,7 +10,7 @@ Python
 ## **Desafios**
 
 
-### **Desafio 1** - Encontre o valor da variável
+- ### **Desafio 1** - Encontre o valor da variável
 
   **Resumo**: Criação de um código em python para encontrar o valor de uma variável
   
@@ -22,7 +22,7 @@ Python
 
 
 
-###  **Desafio 2** - Sequência de Fibonacci
+- ###   **Desafio 2** - Sequência de Fibonacci
 
   **Resumo**: Escrever um código que calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
   
@@ -33,7 +33,7 @@ Python
   
 
 
-###  **Desafio 3** - Descubra a lógica
+- ###   **Desafio 3** - Descubra a lógica
 
   **Resumo**: Responder qual é o próximo número para cada sequência exibida
   
@@ -44,7 +44,7 @@ Python
   
 
 
-###  **Desafio 4** - Desafio dos três interruptores
+- ###   **Desafio 4** - Desafio dos três interruptores
 
   **Resumo**: Descobrir usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada.
   
@@ -60,7 +60,7 @@ Python
 
   
 
-###  **Desafio 5** - Escrever um programa que inverta caracteres
+- ###   **Desafio 5** - Escrever um programa que inverta caracteres
 
   **Resumo**: Criar um código que inverte caracteres de um string e através de um comando "for"
   
