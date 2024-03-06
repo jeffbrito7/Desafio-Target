@@ -14,14 +14,11 @@ Python
 
   **Resumo**: Criação de um código em python para encontrar o valor de uma variável
   
-  **Resolução**: Insere-se três variáveis 'INDICE', 'SOMA' e 'K'. Após isso entra em loop, e usando a função  WHILE que executa enquanto 'K' for menor que a variável 'INDICE'. Depois A cada looping é acrescentado 1  em 'SOMA' e é atualizado somando o valor de 'K'. Após o loop, o código irá mostrar o valor final da variável 'SOMA'
+  **Resolução**: Inseri três variáveis 'INDICE', 'SOMA' e 'K'. Após isso entra em loop, e usando a função  WHILE, que executa enquanto 'K' for menor que a variável 'INDICE'. Depois a cada looping é acrescentado 1  na variável 'SOMA', e é atualizado somando o valor de 'K'. Após o loop, o código irá mostrar o valor final da variável 'SOMA'.
 
   **Código em Python**: [Desafio1.py](https://github.com/jeffbrito7/Desafio-Target/blob/main/Desafio%205.py)
 
   
-
-
-
 - ###   **Desafio 2** - Sequência de Fibonacci
 
   **Resumo**: Escrever um código que calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
@@ -31,8 +28,6 @@ Python
   **Código em Python**: [Desafio2.py](https://github.com/jeffbrito7/Desafio-Target/blob/main/Desafio%202.py)
 
   
-
-
 - ###   **Desafio 3** - Descubra a lógica
 
   **Resumo**: Responder qual é o próximo número para cada sequência exibida
@@ -42,8 +37,6 @@ Python
   **Código em Python**: [Desafio3.py](https://github.com/jeffbrito7/Desafio-Target/blob/main/Desafio%203.py)
 
   
-
-
 - ###   **Desafio 4** - Desafio dos três interruptores
 
   **Resumo**: Descobrir usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada.
@@ -59,7 +52,6 @@ Python
   **Código em Python**: [Desafio4.py](https://github.com/jeffbrito7/Desafio-Target/blob/main/Desafio%204.py)
 
   
-
 - ###   **Desafio 5** - Escrever um programa que inverta caracteres
 
   **Resumo**: Criar um código que inverte caracteres de um string e através de um comando "for"
